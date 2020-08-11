@@ -1,6 +1,6 @@
 '''
 
-Created on 10.05.2020  @author: Saeed and Steffen Kastian
+Created on 10.05.2020  @author: Saeed Rastegarian and Steffen Kastian
 
 Simple Genetic Algorithm (Goldberg, 1989) code for truss size optimization 
 
