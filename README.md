@@ -18,6 +18,6 @@ d. [Replace] Use new generated population for a further run for the algorithm.
 
 e. [Test] If the end condition is satisfied, stop and give the best solution in the current population.
 
-![Screenshot (217)](https://user-images.githubusercontent.com/51674837/89951796-5d49a280-dc2c-11ea-925d-407c2e903903.png)
+![Screenshot (225)](https://user-images.githubusercontent.com/51674837/89954726-e8796700-dc31-11ea-8241-38ccaf2c864e.png)
 
-![Screenshot (218)](https://user-images.githubusercontent.com/51674837/89951805-5fabfc80-dc2c-11ea-9b4c-70c49aaaf91b.png)
+![Screenshot (221)](https://user-images.githubusercontent.com/51674837/89954730-ea432a80-dc31-11ea-9c5e-6ae0d1a95119.png)
