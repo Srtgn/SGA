@@ -11,8 +11,11 @@ a. [Start] Generate random population of n chromosome (strings of 10101010011010
 b. [Fitness] Evaluate the fitness function f(x) for each chromosome in the population
 
 c. [New population] Create the new population picking parents among the best individuals applying the (GA) operators:
+
     i. [Selection] Selection of two parents from a population according to their fitness (best fitness, more chance to be selected etc.) 
+    
     ii. [Crossover] Generate children by mixing the parents properties with a crossover probability. If no crossover is applied the string is an exact copy of the parents.
+    
     iii. [Mutation] Apply with a mutation probability changes to the children properties at each locus.  iv. [Accepting] Place the new strings in the population.  
     
 d. [Replace] Use new generated population for a further run for the algorithm.  
