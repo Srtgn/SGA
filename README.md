@@ -4,7 +4,7 @@
 This is a size optimization code, developed to be verified with the Takao YOKOTA (1989) 10-element truss. 
 Please use the trusspy of the repository.
 
-Email: saeed.rastegarian@rwth-aachen.de
+saeed.rastegarian@rwth-aachen.de
 
 Its general procedure consist in the following steps:  
 a. [Start] Generate random population of n chromosome (strings of 101010100110101, each of one correspond to a potential solution of the problem) 
