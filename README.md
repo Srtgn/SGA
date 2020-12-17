@@ -2,7 +2,7 @@
 
 ##### Simple genetic algorithm (SGA) proposed by Goldberg in 1989:
 This is a size optimization code, developed to be verified with the Takao YOKOTA (1989) 10-element truss. 
-Please use the trusspy of the repository.
+Please use the trusspy of the repository; based on the trusspy package of [Andreas D.](https://github.com/adtzlr) open source contribution.
 
 saeed.rastegarian@rwth-aachen.de
 
